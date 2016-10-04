@@ -5,3 +5,6 @@ classes
 .cake
 META-INF
 /.project
+/bin/
+/target/
+/.classpath
